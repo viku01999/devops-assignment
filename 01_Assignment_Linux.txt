@@ -1,5 +1,5 @@
 Name: Vikas kumar
-Email: viku01999@gmail.com 
+Email: viku01999@gmail.com
 Assignment: Linux assignment
 Drive link : N/A
 Github Link: https://github.com/viku01999/devops-assignment/blob/main/01_Assignment_Linux
