@@ -2,4 +2,4 @@ Name: Vikas kumar
 Email: viku01999@gmail.com
 Assignment: Assignment_Bash_scripting
 Drive link : N/A
-Github Link: https://github.com/viku01999/devops-assignment/blob/main/01_Assignment_Linux.ipynb
+Github Link: https://github.com/viku01999/devops-assignment/blob/main/03_Assignment_Bash_scripting.ipynb
