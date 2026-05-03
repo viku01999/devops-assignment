@@ -1,0 +1,5 @@
+Name: Vikas kumar
+Email: viku01999@gmail.com
+Assignment: Python_Data_Types
+Drive link : N/A
+Github Link: https://github.com/viku01999/devops-assignment/blob/main/04_Python_Basics_Assignment.ipynb
