@@ -1,5 +1,0 @@
-Name: Vikas kumar
-Email: viku01999@gmail.com
-Assignment: Functions_and_Iterators
-Drive link : N/A
-Github Link: https://github.com/viku01999/devops-assignment/blob/main/05_Python_Data_Types.ipynb
