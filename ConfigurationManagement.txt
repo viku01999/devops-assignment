@@ -1,5 +1,5 @@
 Name: Vikas kumar
 Email: viku01999@gmail.com
-Assignment: Configuration Management
+Assignment: Docker Fundamanetals
 Drive link : N/A
-Github Link: https://github.com/viku01999/devops-assignment/blob/main/ConfigurationManagement.md
+Github Link: https://github.com/viku01999/devops-assignment/blob/main/DockerFundamanetals.md
